@@ -1,1 +1,1 @@
-# Welcom to Ensoul!
+# Welcome to Ensoul!
